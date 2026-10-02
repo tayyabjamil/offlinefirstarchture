@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "/offline-first-blog",
+  basePath: "/offlinefirstarchture",
   trailingSlash: true,
   images: { unoptimized: true },
 };
